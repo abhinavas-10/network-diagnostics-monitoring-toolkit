@@ -146,3 +146,21 @@ Only list features and tests that you have personally run and verified.
 - Configurable alert thresholds and retry policies.
 - Historical uptime and packet-loss summaries.
 - Rich terminal tables and color-coded output.
+
+## Application Screenshots
+
+### Network Information
+![Network Information](screenshots/network-info.png)
+
+### Ping Monitoring
+![Ping Monitoring](screenshots/ping-monitor.png)
+
+### DNS Lookup
+![DNS Lookup](screenshots/dns-lookup.png)
+
+### TCP Port Checker
+![TCP Port Checker](screenshots/tcp-port-check.png)
+
+### Host Monitoring
+![Host Monitoring](screenshots/host-monitoring.png)
+
