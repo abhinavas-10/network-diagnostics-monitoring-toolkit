@@ -1,0 +1,5 @@
+{
+  "hosts": ["8.8.8.8", "1.1.1.1", "example.com"],
+  "interval_seconds": 30,
+  "timeout_seconds": 2
+}
